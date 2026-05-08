@@ -3,7 +3,7 @@
 SISTEMA INTEGRAL DE GESTIÓN DE CLIENTES, SERVICIOS Y RESERVAS
 Empresa: Software FJ
 Curso: Programación
-Autor: [Nombre del estudiante / grupo]
+Autor: [Jhon Alexander Corzo Herrera /Grupo:2201]
 Descripción:
 Proyecto orientado a objetos SIN base de datos, usando listas,
 manejo de archivos para logs y manejo avanzado de excepciones.
